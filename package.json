@@ -7,6 +7,7 @@
     "cy:open": "npx cypress open",
     "cy:run": "npx cypress run",
     "cy:record": "npx cypress run --record",
+    "browserstack" : "npx browserstack-cypress run --sync",
     "prepare": "husky install"
   },
   "author": "Asad Hasan",

@@ -1,4 +1,8 @@
 {
   "baseUrl": "https://todomvc.com/",
-  "projectId": "kt5xgi"
+  "projectId": "kt5xgi",
+  "retries": {
+    "runMode": 1,
+    "openMode": 0
+  }
 }
